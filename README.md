@@ -1,4 +1,4 @@
-# Park-Hotel
+# Park-Hotel https://natalliakurbat.github.io/Park-Hotel/
 Верстка сайта "Park-Hotel" по макету с Figma 
 
 - адаптивная верстка (1920рх, 1440рх, 1024рх, 768рх)
